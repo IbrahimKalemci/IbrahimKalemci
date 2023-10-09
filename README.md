@@ -56,7 +56,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
