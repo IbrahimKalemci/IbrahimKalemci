@@ -93,7 +93,7 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="icons/Adonis.svg" width="48" height="48" alt="Animate" />
+            <img src="https://techstack-generator.vercel.app/illustirator-icon.svg" width="48" height="48" alt="Animate" />
             <br>Adobe Animate
         </td>
         <td align="center" width="96">-
