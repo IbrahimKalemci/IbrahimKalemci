@@ -93,10 +93,10 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Animate.svg" width="48" height="48" alt="Animate" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AdobeAnimate.svg" width="48" height="48" alt="Animate" />
             <br>Adobe Animate
         </td>
-        <td align="center" width="96">
+        <td align="center" width="96">-
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AfterEffects.svg" width="48" height="48" alt="Adobe AE" />
             <br>Adobe AE
         </td>
