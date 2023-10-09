@@ -48,8 +48,8 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C Sharp" />
+      <br>C#
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
@@ -73,8 +73,8 @@
             <br>DC Bots
         </td>
         <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="48" height="48" alt="Replit" />
-            <br>Replit
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+            <br>Java
         </td>
             <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -89,7 +89,7 @@
             <br>Bootstrap
         </td>
                 <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Dark.svg" width="48" height="48" alt="Postman" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Dark.svg" width="48" height="48" alt="VsCode" />
             <br>VS Code
         </td>
         <td align="center" width="96">
