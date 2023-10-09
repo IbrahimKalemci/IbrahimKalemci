@@ -97,7 +97,7 @@
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="Adobe AE" />
+            <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="AdobeAe" />
             <br>Adobe Ae
         </td>
         <td align="center" width="96">
