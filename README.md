@@ -57,7 +57,7 @@
     </td>
     <td align="center" width="96">
          <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="48" height="48"/>
-      <br>SQL Serv
+      <br>MSSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="DiscordJS" />
