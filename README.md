@@ -93,8 +93,8 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Animate" />
-            <br>Adobe Animate
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind Css
         </td>
         <td align="center" width="96">-
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AfterEffects.svg" width="48" height="48" alt="Adobe AE" />
