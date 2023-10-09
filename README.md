@@ -10,7 +10,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.fiverr.com/zagordev?up_rollout=true">
-<img src="https://1.bp.blogspot.com/-Rl_IqmPgEic/XtEdjZ1T7JI/AAAAAAAAMZk/WayL39zhuY0NJEbWkIMMw7xiBCcB0SZegCLcBGAsYHQ/s1600/21%2BSeo%2BTerbaru%2BFiverr%2BDi%2BTahun%2B2020.jpg">
+<img src="https://img.shields.io/badge/Fiverr-%205AAA222.svg?style=for-the-badge&logo=Fiverr&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ibrahim-ethem-kalemci-783348291/">
