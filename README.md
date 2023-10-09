@@ -60,7 +60,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.discordapp.com/attachments/746203556151033916/1160377692189884496/download_2.png?ex=653470f0&is=6521fbf0&hm=53befcdd8300134c183d11042cb04cabd3cdba3c3f9a145913d40f4061f80b0d&" width="48" height="48" alt="DiscordJS" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="DiscordJS" />
       <br>DiscordJS
     </td>
     <td align="center" width="96">
