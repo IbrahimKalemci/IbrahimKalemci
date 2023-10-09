@@ -56,8 +56,8 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://www.microsoft.com/en-us/sql-server" width="48" height="48" alt="Mssql" />
+      <br>Sql Server
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="DiscordJS" />
