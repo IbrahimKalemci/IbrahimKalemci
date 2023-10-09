@@ -136,7 +136,7 @@
 
 ## Recent Discord Activity ✅
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/users/345220061948280833) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/channels/@me) 
 
 ## GitHub Profile Trophy 🏆
 
