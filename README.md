@@ -148,7 +148,9 @@
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://cdn.discordapp.com/attachments/746203556151033916/1160368902723866697/dino.gif" style="display: block; opacity: 1;">
 
-<summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+<details>
+<summary><h3>👨‍💻 More Info About Me</h3></summary>
+ 
 - 👋 Hi, I’m @IbrahimKalemci
 - 👀 I’m interested Web Development .
 - ✨ I’m currently learning React - Node.js .
@@ -158,6 +160,8 @@
 - 💻 What I know about web development 👇
 - 📜 Html - Css - JavaScript - Asp.Net Core .
 - 📱 I am also developing mobile application with java language .
+  
+</details>
 
 <!---
 IbrahimKalemci/IbrahimKalemci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
