@@ -136,7 +136,7 @@
 
 ## Recent Discord Activity ✅
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/channels/@zagor.1) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/268125884651667456)](https://discord.com/users/268125884651667456)
 
 ## GitHub Profile Trophy 🏆
 
