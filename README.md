@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center"  width="96">
@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="DiscordJS" />
-      <br>DiscordJS
+      <br>Dotnet
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" width="48" height="48" alt="ExpressJS" />
@@ -70,7 +70,7 @@
     <tr>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DiscordBots.svg" width="48" height="48" alt="DC Bots" />
-            <br>DC Bots
+            <br>VS Code
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
@@ -90,14 +90,14 @@
         </td>
                 <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Dark.svg" width="48" height="48" alt="VsCode" />
-            <br>VS Code
+            <br>Visual Studio
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
             <br>Tailwind Css
         </td>
         <td align="center" width="96">-
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AfterEffects.svg" width="48" height="48" alt="Adobe AE" />
+            <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="Adobe AE" />
             <br>Adobe AE
         </td>
         <td align="center" width="96">
