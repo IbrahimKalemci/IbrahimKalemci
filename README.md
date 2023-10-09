@@ -90,15 +90,15 @@
         </td>
                 <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Dark.svg" width="48" height="48" alt="VsCode" />
-            <br>Visual Studio
+            <br>Visual St
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-            <br>Tailwind Css
+            <br>Tailwind
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="Adobe AE" />
-            <br>Adobe AE
+            <br>Adobe Ae
         </td>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
