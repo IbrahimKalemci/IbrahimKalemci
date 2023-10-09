@@ -48,7 +48,7 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C Sharp" />
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C Sharp" />
       <br>C#
     </td>
     <td align="center" width="96">
