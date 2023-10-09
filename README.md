@@ -113,8 +113,8 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/etkosko/github-readme-stats"><img alt="etkosko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
-  <a href="https://github.com/etkosko/github-readme-stats"><img alt="etkosko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
+    <a href="https://github.com/IbrahimKalemci/github-readme-stats"><img alt="Ibrahim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IbrahimKalemci&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
+  <a href="https://github.com/IbrahimKalemci/github-readme-stats"><img alt="Ibrahim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
   <br/>
 </details>
 
@@ -122,7 +122,7 @@
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=etkosko&bg_color=151515&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimKalemci&bg_color=151515&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -136,7 +136,7 @@
 
 ## Recent Discord Activity ✅
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/channels/@me) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/channels/@zagor.1) 
 
 ## GitHub Profile Trophy 🏆
 
