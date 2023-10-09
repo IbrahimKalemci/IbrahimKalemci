@@ -48,7 +48,7 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C Sharp" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C Sharp" />
       <br>C#
     </td>
     <td align="center" width="96">
@@ -64,8 +64,8 @@
       <br>Dotnet
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" width="48" height="48" alt="ExpressJS" />
-      <br>ExpressJS
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="ExpressJS" />
+      <br>Android St
     </td>
     <tr>
         <td align="center" width="96">
