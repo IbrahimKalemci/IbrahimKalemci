@@ -93,7 +93,7 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="file:///C:/Users/PC/Desktop/skill-icons-main/skill-icons-main/icons/Arduino.svg" width="48" height="48" alt="Animate" />
+            <img src="icons/Adonis.svg" width="48" height="48" alt="Animate" />
             <br>Adobe Animate
         </td>
         <td align="center" width="96">-
