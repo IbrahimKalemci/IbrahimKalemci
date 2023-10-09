@@ -56,7 +56,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/> </a>
+         <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql" width="48" height="48"/>
       <br>Sql Server
     </td>
     <td align="center" width="96">
