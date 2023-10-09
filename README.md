@@ -114,7 +114,7 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/IbrahimKalemci/github-readme-stats"><img alt="Ibrahim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimkalemci&show_icons=true&locale=en" alt="ibrahimkalemci&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/IbrahimKalemci/github-readme-stats"><img alt="Ibrahim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
+  <a href="https://github.com/IbrahimKalemci/github-readme-stats"><img alt="Ibrahim's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkalemci" height="192px"/></a>
   <br/>
 </details>
 
