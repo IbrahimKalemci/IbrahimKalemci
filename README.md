@@ -93,7 +93,7 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=animate" width="48" height="48" alt="Postman" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Animate.svg" width="48" height="48" alt="Animate" />
             <br>Adobe Animate
         </td>
         <td align="center" width="96">
