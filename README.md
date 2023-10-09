@@ -18,7 +18,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ibodev.site/">
-<img src="https://img.shields.io/badge/Website-%105CCC200.svg?style=for-the-badge&logo=Heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Website-%231FFFF.svg?style=for-the-badge&logo=Heroku&logoColor=white">
 </a>
 
 
