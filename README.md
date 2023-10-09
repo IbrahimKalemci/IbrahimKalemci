@@ -93,7 +93,7 @@
             <br>VS Code
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/illustrator-icon.svg" width="48" height="48" alt="Animate" />
+            <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="48" height="48" alt="Animate" />
             <br>Adobe Animate
         </td>
         <td align="center" width="96">-
