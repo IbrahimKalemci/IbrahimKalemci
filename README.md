@@ -25,7 +25,7 @@
 </div>
 <p></p>
 <p align="justify">
-18 Years Old Young Junior Back-End Devleoper
+19 Years Old Junior Devleoper
 
 </p>
 
@@ -141,9 +141,7 @@
 
 </details>
 
-## Recent Discord Activity ✅
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/268125884651667456)](https://discord.com/users/268125884651667456)
 
 ## GitHub Profile Trophy 🏆
 
@@ -155,15 +153,12 @@
 <details>
 <summary><h3>👨‍💻 More Info About Me</h3></summary>
  
-- 👋 Hi, I’m @IbrahimKalemci
-- 👀 I’m interested Web Development .
+- 👋 Hi, I’m ibrahim
+- 👀 I’m interested Web Development & Vibe Coding.
 - ✨ I’m currently learning React - Node.js .
-- 💞️ I’m 17 Years old my full name is İbrahim Ethem Kalemci .
-- 🏫 My school is in istanbul and its name is Handan Hayrettin Yelkikanat Mesleki ve Teknik Anadolu Lisesi .
-- 📫 How to reach me +90 535 602 2561 or ibrahimethemkalemci@gmail.com .
 - 💻 What I know about web development 👇
-- 📜 Html - Css - JavaScript - Asp.Net Core .
-- 📱 I am also developing mobile application with java language .
+- 📜 Html - Css - JavaScript - React - Expo - Asp.Net Core .
+- 📱 I am also developing mobile application with UI with expo .
   
 </details>
 
