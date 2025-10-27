@@ -105,7 +105,6 @@
 </table>
 
 ## Github stats 📊
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
@@ -137,7 +136,8 @@
 
 ## GitHub Profile Trophy 🏆
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkalemci" alt="ibrahimkalemci" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkalemci" alt="ibrahimkalemci" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+
 
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://cdn.discordapp.com/attachments/746203556151033916/1160368902723866697/dino.gif" style="display: block; opacity: 1;">
