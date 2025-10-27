@@ -136,7 +136,7 @@
 
 ## GitHub Profile Trophy 🏆
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkalemci" alt="ibrahimkalemci" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimkalemci" alt="ibrahimkalemci" /></a> </p>]([https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula))
 
 
 
